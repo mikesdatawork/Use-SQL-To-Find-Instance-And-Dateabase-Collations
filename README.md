@@ -33,7 +33,7 @@ select
 ```
 Here's a quick screenshot.
  
-![SQL Server Collation Database Collation] (https://mikesdatawork.files.wordpress.com/2014/12/get_sql_instance_collation_and_database_collation.png "SQL Collations")
+![Collations](https://mikesdatawork.files.wordpress.com/2014/12/get_sql_instance_collation_and_database_collation.png "SQL Collations")
 
 
 
